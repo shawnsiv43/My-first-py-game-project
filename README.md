@@ -1,11 +1,11 @@
-### MY FIRST PYTHON PYGAME PROGRAM!!!
+# MY FIRST PYTHON PYGAME PROGRAM!!!
 
 
-## How to Run
+### How to Run
 Hit CTRL+S
 
 Click the run button or in the terminal type python and the file name
-# Features
+### Features
 
 Can make circles and rectangles in your favorite color
 
