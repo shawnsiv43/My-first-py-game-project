@@ -12,3 +12,8 @@ Can make circles and rectangles in your favorite color
 Can place the shapes randomly
 
 Has a count for each of the both shapes
+
+
+### Here is a picture of my program
+
+![Prject picture](image.png)
